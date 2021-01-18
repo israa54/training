@@ -1,0 +1,75 @@
+body{
+margin: 0%;
+background:rgb(147, 159, 173) ;
+background-image: url(phot.jpg);
+background-size: 100%;
+}
+
+
+.open{
+width: 330px;
+height: 340px;
+background: cadetblue;
+border-radius: 23px;
+position: absolute;
+top: 20%;
+left: 35%;
+box-shadow:5px rgb(70, 18, 18);
+}
+h1{
+text-align: center;
+position: absolute;
+top: 5%;
+left: 35%;
+}
+.cvv{
+ padding: 10px;
+ width:249px;
+ margin: 0 20 0px;
+margin: 20px;
+position: absolute;
+top: 47%;
+left:4%;
+border-radius: 8px;
+transition : all .5s ease;
+border: honeydew;
+   font-size: 20px;
+   font-style: italic;
+   font-weight: 50px;
+   
+   }
+.cvb{
+    padding: 10px;
+    width:250px;
+   margin: 0 20 0px;
+   position: absolute;
+   top:35%;
+   left:7%;
+   box-shadow: rgb(28, 32, 28);
+   transition : all .5s ease;
+   border-radius: 8px;
+   border: honeydew;
+   font-size: 20px;
+   font-style: italic;
+   font-weight: 50px;
+   }
+   
+label{
+
+    font-size: 20px;
+    font-style: italic;
+    position: absolute;
+    top: 70%;  
+    left: 10%;
+}
+   button{
+padding: 10px;
+position: absolute;
+top: 80%;
+left: 75%;
+color: rgb(30, 57, 58);
+font-size: 20px;
+background-color: rgb(49, 117, 108);
+border-radius: 10px;
+transition: all .5s ease; color: ;
+   }
